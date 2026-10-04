@@ -1,0 +1,18 @@
+MES NOTES — APPLICATION SMARTPHONE
+
+1. Publier le contenu de ce dossier sur un hébergement web HTTPS.
+   Le fichier index.html doit se trouver à la racine du site publié.
+2. Ouvrir le lien du site sur le smartphone.
+3. iPhone : dans Safari, ouvrir le menu Partager puis « Sur l’écran d’accueil ».
+   Android : dans Chrome, ouvrir le menu puis « Ajouter à l’écran d’accueil »
+   ou « Installer l’application », selon les options proposées.
+
+Après une première ouverture en ligne, les pages sont disponibles hors connexion.
+Les notes et le prénom sont enregistrés dans le navigateur de chaque appareil.
+Il n’y a pas de synchronisation automatique entre l’ordinateur et le smartphone.
+Pour transférer les notes existantes : exporter depuis l’ancienne page, transférer
+le fichier JSON sur le téléphone puis l’importer dans la nouvelle application.
+Le prénom est à saisir de nouveau.
+
+Ce dossier est prêt à publier ; il n’a pas encore été mis en ligne.
+Ouvrir les fichiers directement ne permet pas l’installation complète ni le mode hors ligne.
